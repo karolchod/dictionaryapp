@@ -5,6 +5,7 @@ Online dictionary app in Kotlin.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Screenshots](#screenshots)
 
 ## General info
 "Dictionary App" was made as a part of "Introduction to Mobile Applications Development" (Wstęp do programowania aplikacji mobilnych) course at Warsaw University of Technology, Faculty of Electronics and Information Technology.
