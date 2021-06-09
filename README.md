@@ -24,9 +24,4 @@ Before running your app, please make new project in Firebase. Then download goog
 ## Screenshots
 Four screenshots from app, there are more than that.
 
-![scr1](screenshots/scr1.jpg)
-![scr2](screenshots/scr2.jpg)
-![scr3](screenshots/scr3.jpg)
-![scr4](screenshots/scr4.jpg)
-
-
+![screenshots](screenshots.png)
