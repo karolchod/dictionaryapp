@@ -22,6 +22,6 @@ Project can be run using Android Studio.
 Before running your app, please make new project in Firebase. Then download google-services.json file for Android project. Replace existing, empty file in app/ directory. Then turn on Email Authentication and Firestore Database on Firebase management panel.
 
 ## Screenshots
-Four screenshots from app, there are more than that.
+Four screenshots from app, but there are more possibilities than that.
 
 ![screenshots](screenshots.png)
